@@ -9,13 +9,13 @@ Software engineering is the disciplined approach to designing, developing, testi
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1. 1968 NATO Conference**: Highlighted the need for better software development practices, coining the term "software engineering."
-2. 1970s Structured Programming**: Introduced principles for improving code organization and readability, fostering better software design.
-3. 1990s Agile Manifesto**: Emphasized iterative development and collaboration, revolutionizing project management and adaptability in software projects.
+1. 1968 NATO Conference: Highlighted the need for better software development practices, coining the term "software engineering."
+2. 1970s Structured Programming: Introduced principles for improving code organization and readability, fostering better software design.
+3. 1990s Agile Manifesto: Emphasized iterative development and collaboration, revolutionizing project management and adaptability in software projects.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-1. Requirement Analysis**: Gather and define user needs.
+1. Requirement Analysis: Gather and define user needs.
 2. Design: Plan system architecture and design.
 3. Implementation: Write and compile code.
 4. Testing: Identify and fix bugs.
